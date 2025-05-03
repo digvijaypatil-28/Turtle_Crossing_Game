@@ -12,17 +12,7 @@ A fun arcade-style game built using Python's turtle module. Help the turtle cros
 
 📈 Scoreboard displaying the current level
 
-📂 File Structure
-bash
-Copy
-Edit
-TurtleCrossingGame/
-│
-├── main.py              # Main game loop and event handlers
-├── player.py            # Player (Turtle) class and movement
-├── car_manager.py       # Car management and movement logic
-├── scoreboard.py        # Scoreboard display and level tracking
-└── README.md            # Project documentation (this file)
+
 🖥️ How to Run
 Prerequisites
 Python 3.x installed on your system
